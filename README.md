@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi , I'm Safal Narshing Shrestha</h1>
-<h3 align="center">A passionate machine learning engineer from Nepal</h3>
 
 <img align = "right" alt ="Coding" width ="400" src = "https://i.pinimg.com/736x/93/52/49/935249e2de922d09d188e12cae878243.jpg">
 
