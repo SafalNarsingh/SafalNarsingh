@@ -22,17 +22,16 @@ I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on
 
 <h2>🛠️ Some Tools I Use</h2>
 
-<div style="display: flex; flex-direction: column; align-items: center;">  
+<p align="left">
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="30" alt="Django"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="30" alt="Jupyter"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" alt="VSCode"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="30" alt="OpenCV"/></a>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python" onclick="window.open('https://www.python.org/', '_blank');" style="cursor: pointer;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="30" alt="Django" onclick="window.open('https://www.djangoproject.com/', '_blank');" style="cursor: pointer;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" onclick="window.open('https://isocpp.org/', '_blank');" style="cursor: pointer;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="30" alt="Jupyter" onclick="window.open('https://jupyter.org/', '_blank');" style="cursor: pointer;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" alt="GitHub" onclick="window.open('https://github.com/', '_blank');" style="cursor: pointer;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" alt="VSCode" onclick="window.open('https://code.visualstudio.com/', '_blank');" style="cursor: pointer;"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="30" alt="OpenCV" onclick="window.open('https://opencv.org/', '_blank');" style="cursor: pointer;"/>  
-
-</div>  
           
 
           
