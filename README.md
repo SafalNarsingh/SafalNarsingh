@@ -12,15 +12,15 @@ I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safalshrestha3/)
 
 
-<h2>Quick Facts</h2>
+<h2>🚴 Quick Facts</h2>
 
 -  I am currently working on 
 -  Learning about 
--  Fun Fact: If we can keep it simple, then why worry about anything else?
+-  Fun Fact: Why complicate things when keeping it simple is where the fun’s at?
 
 <br>
 
-<h2>Some Tools I Use</h2>
+<h2>🛠️ Some Tools I Use</h2>
 <img align=left alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 30>
 <img align=left alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width = 30>
 <img align=left alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = 30>
