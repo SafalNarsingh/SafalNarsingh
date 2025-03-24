@@ -1,26 +1,42 @@
+<h2 align = "center"><em>"THE ELEGANCE OF ALGORITHM IS IN ITS SIMPLICITY"</em></h2>
+<img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/bbcd8f6cca149e32c1c5d794d8079e62c8ed34f4/banner_final_github.gif">  
 
-<h1 align="center">Hi , I'm Safal Narshing Shrestha</h1>
+#
 
-<img align = "right" alt ="Coding" width ="400" src = "https://i.pinimg.com/736x/93/52/49/935249e2de922d09d188e12cae878243.jpg">
+<h3>Hey <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/70858c78df683120fa5934d3e60a0cf22c09d929/robot.gif" width="25"> , I'm Safal Narshing Shrestha,  </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safalnarsingh&label=Profile%20views&color=0e75b6&style=flat" alt="safalnarsingh" /> </p>
+I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on some side projects, learning OpenCV and Machine Learning, and finding a way to make robots control humans.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safalnarsingh/)
+[![Faceboook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/safal.shrestha.5836/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safalshrestha3/)
 
 
-- 💬 Ask me about **Python**
+<h2>Quick Facts</h2>
 
-- 📫 How to reach me **safalnarsingh@gmail.com**
+-  I am currently working on 
+-  Learning about 
+-  Fun Fact: If we can keep it simple, then why worry about anything else?
 
-- ⚡ Fun fact **I like keeping things simple**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2>Some Tools I Use</h2>
+<img align=left alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 30>
+<img align=left alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width = 30>
+<img align=left alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = 30>
+<img align=left alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = 30>
+<img align=left alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = 30>
+<img align=left alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width = 30>
+<img align=left alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width = 30>
+          
+          
+          
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safalnarsingh&show_icons=true&locale=en&layout=compact" alt="safalnarsingh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safalnarsingh&show_icons=true&locale=en" alt="safalnarsingh" /></p>
+          
+          
+          
+          
+          
+          
 
 
