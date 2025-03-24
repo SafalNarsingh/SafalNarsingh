@@ -21,15 +21,18 @@ I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on
 <br>
 
 <h2>🛠️ Some Tools I Use</h2>
-<img align=left alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = 30>
-<img align=left alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width = 30>
-<img align=left alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = 30>
-<img align=left alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width = 30>
-<img align=left alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = 30>
-<img align=left alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width = 30>
-<img align=left alt="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width = 30>
-          
-          
+
+<div style="display: flex; flex-direction: column; align-items: center;">  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" alt="Python" onclick="window.open('https://www.python.org/', '_blank');" style="cursor: pointer;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="30" alt="Django" onclick="window.open('https://www.djangoproject.com/', '_blank');" style="cursor: pointer;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" alt="C++" onclick="window.open('https://isocpp.org/', '_blank');" style="cursor: pointer;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="30" alt="Jupyter" onclick="window.open('https://jupyter.org/', '_blank');" style="cursor: pointer;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" alt="GitHub" onclick="window.open('https://github.com/', '_blank');" style="cursor: pointer;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" alt="VSCode" onclick="window.open('https://code.visualstudio.com/', '_blank');" style="cursor: pointer;"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="30" alt="OpenCV" onclick="window.open('https://opencv.org/', '_blank');" style="cursor: pointer;"/>  
+
+</div>  
           
 
           
