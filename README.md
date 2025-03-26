@@ -14,10 +14,11 @@ I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on
 
 <h2>🚴 Quick Facts</h2>
 
--  I am currently working on 
--  Learning about 
+-  I am currently working on personal development.
+-  I am currently learning Open CV. 💻 
 -  Fun Fact: Why complicate things when keeping it simple is where the fun’s at?
-<br
+<br>
+
 <h2>🛠️ Some Tools I Use</h2>
 
 <p align="left">
