@@ -16,7 +16,7 @@ I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on
 
 -  I am currently working on research based on AR. 📝
 -  I am currently learning OpenCV. 💻 
--  Fun Fact: Why complicate things when keeping it simple is where the fun’s at?
+-  Fun Fact: Why complicate things when keeping it simple is where the fun’s at? ☕︎
 <br>
 
 <h2>🛠️ Some Tools I Use</h2>
