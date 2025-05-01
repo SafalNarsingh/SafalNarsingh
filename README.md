@@ -5,13 +5,13 @@
 
 <h3>Hey <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/70858c78df683120fa5934d3e60a0cf22c09d929/robot.gif" width="25"> , I'm Safal Narshing Shrestha,  </h3>
 
-I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on some side projects, learning OpenCV and Machine Learning, and trying to find a way to make robots control humans.
+I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on AR-based research and its impact on Autistic Children.
 
 <h2>Quick Facts</h2>
 
 -  I am currently working on research based on AR. 📝
 -  I am currently learning Unity, React Native, and some AR libraries (ARCore, ARKit). 💻
--  I am open for collaboration on Machine Learning projects.🤝
+-  I am open to collaboration on Machine Learning projects.🤝
 -  Fun Fact: Why complicate things when keeping it simple is where the fun’s at? ☕︎
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safalnarsingh/)
