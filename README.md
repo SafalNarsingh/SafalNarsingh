@@ -5,19 +5,20 @@
 
 <h3>Hey <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/70858c78df683120fa5934d3e60a0cf22c09d929/robot.gif" width="25"> , I'm Safal Narshing Shrestha,  </h3>
 
-I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on some side projects, learning OpenCV and Machine Learning, and finding a way to make robots control humans.
+I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on some side projects, learning OpenCV and Machine Learning, and trying to find a way to make robots control humans.
+
+<h2>Quick Facts</h2>
+
+-  I am currently working on research based on AR. 📝
+-  I am currently learning Unity, React Native, and some AR libraries (ARCore, ARKit). 💻
+-  
+-  Fun Fact: Why complicate things when keeping it simple is where the fun’s at? ☕︎
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safalnarsingh/)
 [![Faceboook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/safal.shrestha.5836/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safalshrestha3/)
 
-
-<h2>🚴 Quick Facts</h2>
-
--  I am currently working on research based on AR. 📝
--  I am currently learning OpenCV. 💻 
--  Fun Fact: Why complicate things when keeping it simple is where the fun’s at? ☕︎
-<br>
 
 <h2>🛠️ Some Tools I Use</h2>
 
