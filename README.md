@@ -11,6 +11,7 @@ I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on
 
 -  I am currently working on research based on AR. 📝
 -  I am currently learning Unity, React Native, and some AR libraries (ARCore, ARKit). 💻
+-  I am open for collaboration on Machine Learning projects.🤝
 -  Fun Fact: Why complicate things when keeping it simple is where the fun’s at? ☕︎
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safalnarsingh/)
