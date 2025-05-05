@@ -5,7 +5,7 @@
 
 <h3>Hey <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/70858c78df683120fa5934d3e60a0cf22c09d929/robot.gif" width="25"> , I'm Safal Narshing Shrestha,  </h3>
 
-I am an undergraduate at Kathmandu University, 28 Kilo in Nepal. I am working on AR-based research and its impact on Autistic Children.
+I am an undergraduate in the 4th semester majoring in Computer Science at Kathmandu University, 28 Kilo in Nepal. I am working on AR-based research and its impact on Autistic Children.
 
 <h2>Quick Facts</h2>
 
