@@ -13,10 +13,10 @@ I am an undergraduate in the 4th semester majoring in Computer Science at Kathma
 -  I am open to collaboration on Machine Learning projects or any ideas/research that you feel is interesting.🤝
 -  Fun Fact: Why complicate things when keeping it simple is where the fun’s at? ☕︎
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://safalnarsingh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safalnarsingh/)
 [![Faceboook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/safal.shrestha.5836/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safalshrestha3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://safalnarsingh.vercel.app/)
 
 
 <h2>🛠️ Some Tools I Use</h2>
