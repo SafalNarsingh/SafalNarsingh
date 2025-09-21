@@ -1,4 +1,3 @@
-<h2 align = "center"><em>"THE ELEGANCE OF ALGORITHM IS IN ITS SIMPLICITY"</em></h2>
 <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/bbcd8f6cca149e32c1c5d794d8079e62c8ed34f4/banner_final_github.gif">  
 
 #
