@@ -4,16 +4,26 @@
 
 #
 
-<h3>Hey <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/70858c78df683120fa5934d3e60a0cf22c09d929/robot.gif" width="25"> , I'm Safal Narshing Shrestha,  </h3>
-I am an undergraduate in the 4th semester majoring in Computer Science at Kathmandu University, 28 Kilo in Nepal. I am working on research-based project for analyzing the enhancement of vocabulary learning in autistic childrens' of Nepal with the help of cARd toolkit, a toolkit consisiting of some cards, board and an AR app. The AR app is being built using Unity Engine, Vuforia Engine, and AR Foundation. To track the learning rate, Team cARd is also building a progress tracking app including real time progress tracking and a set of distinct quizes to test ability of individuals.
+<table><tr><td valign = "top" width = 50%>
 
-<h2>Quick Facts</h2>
+## Publications
+**2025-07-13** — [A Study Of Sudoku Solving Algorithms: Backtracking and Heuristic(Preprint)](https://www.researchgate.net/publication/393685498_A_Study_Of_Sudoku_Solving_Algorithms_Backtracking_and_Heuristic)
 
--  I am currently working on research based on AR. 📝
--  I am currently learning Unity, React Native, and some AR libraries (ARCore, ARKit). 💻
--  I am open to collaboration on Machine Learning projects or any ideas/research that you feel is interesting.🤝
--  Fun Fact: Why complicate things when keeping it simple is where the fun’s at? ☕︎
 
+ </td>
+
+<td valign = "top" width = 50%>
+
+## Blogs 
+**2025-08-09** — [Solving Sudoku Like a Human — Heuristic Strategies and Puzzle Generation](https://medium.com/@safalnarsingh/solving-sudoku-like-a-human-heuristic-strategies-and-puzzle-generation-25ea9cf0da26)
+
+**2025-04-10** — [Fundamentals of Machine Learning(ML)](https://medium.com/@safalnarsingh/fundamentals-of-machine-learning-ml-36f29e8d3cd4)
+
+(Follow me on [medium](https://medium.com/@safalnarsingh))
+ </td>
+</tr>
+ 
+</table>
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://safalnarsingh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safalnarsingh/)
