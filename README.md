@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/bbcd8f6cca149e32c1c5d794d8079e62c8ed34f4/banner_final_github.gif">   -->
 
-<img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/6202f6fa9e6b7070b6c1b1190e666e166ce842ff/banner.svg" width="100%" alt="Safal Narshing Shrestha Banner">
+<img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/1fe17512c41ba97a4ba199d672bffc2d85cf96d5/banner.svg" width="100%" alt="Safal Narshing Shrestha Banner">
 
 #
 
