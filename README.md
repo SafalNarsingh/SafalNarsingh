@@ -2,8 +2,6 @@
 
 <img src="https://github.com/SafalNarsingh/SafalNarsingh/blob/1fe17512c41ba97a4ba199d672bffc2d85cf96d5/banner.svg" width="100%" alt="Safal Narshing Shrestha Banner">
 
-#
-
 <table><tr><td valign = "top" width = 50%>
 
 ## Publications
