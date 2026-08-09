@@ -7,7 +7,7 @@
 ## Publications
 **2025** — [A Study Of Sudoku Solving Algorithms: Backtracking and Heuristic(Preprint)](https://www.researchgate.net/publication/395717047_A_Study_Of_Sudoku_Solving_Algorithms_Backtracking_and_Heuristic)
 
-**2026** - [Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR(Preprint)](https://arxiv.org/abs/2603.07554)
+**2026** - [Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR (CHIPSAL 2026, ACL) ](https://aclanthology.org/2026.chipsal-1.11/#)
 
 
  </td>
